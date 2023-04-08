@@ -6,7 +6,7 @@ In order to use this project you need to instal LAMP/WAMP and create folder libr
 
 And also you can check out my project live that i have hosted :
 
-https://aleksandartrifunovic1.000webhostapp.com/
+
 
 If you want to check out admin panel you need to have following credentials :
 
